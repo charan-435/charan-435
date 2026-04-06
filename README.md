@@ -6,51 +6,94 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 🧑‍💻 About Me
 
-### 🧑‍💻 About Me
-
-- 🎓 Student at **IIT Guwahati**
+- 🎓 BTech student at **IIT Guwahati**
 - 🤖 Passionate about **Machine Learning & Data Science**
-- 🌱 Currently leveling up in **ML algorithms, model building & deployment**
-- 👾 Also enjoy building things — from **web apps** to **terminal games**
-- 💞️ Looking to collaborate on **ML projects & open-source**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I built a Space Shooter Game that gets harder the longer you survive!
+- 🚀 Building **real-world ML systems & full-stack projects**
+- 🌱 Currently learning:
+  - Advanced ML algorithms  
+  - Model deployment (MLOps basics)  
+  - Backend systems for ML apps  
+- 💡 Love solving problems using **code + data**
+- 🎮 Built a **C++ Space Shooter Game** with increasing difficulty
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+### 📊 Data Science & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
+</p>
+
+### ⚙️ Tools & Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🤖 [AutoML](https://github.com/charan-435/automl) | Automated Machine Learning pipeline | JavaScript |
-| 🛒 [Amazon Clone](https://github.com/charan-435/Amazon-Clone) | Full-featured e-commerce UI clone | JavaScript |
-| 🚀 [Space Shooter Game](https://github.com/charan-435/Space-Shooter-Game) | Terminal-based game with progressive difficulty | C++ |
-| 📚 [JS DOM Bookoroma](https://github.com/charan-435/JS-DOM-Bookoroma) | DOM manipulation project | CSS/JS |
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 <a href="https://github.com/charan-435/automl" target="_blank">AutoML System 🔗</a>
+- Automated ML pipeline
+- Handles preprocessing, training & evaluation
+- Focus on usability + automation  
+
+**Tech:** JS, ML Concepts  
+
+</td>
+<td width="50%">
+
+### 🛒 <a href="https://github.com/charan-435/Amazon-Clone" target="_blank">Amazon Clone 🔗</a>
+- Responsive e-commerce UI
+- Real-world UI replication  
+- Clean frontend design  
+
+**Tech:** JS, HTML, CSS  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚀 <a href="https://github.com/charan-435/Space-Shooter-Game" target="_blank">Space Shooter Game 🔗</a>
+- Terminal-based game in C++
+- Increasing difficulty system  
+- Real-time gameplay logic  
+
+**Tech:** C++  
+
+</td>
+<td width="50%">
+
+### 📚 <a href="https://github.com/charan-435/JS-DOM-Bookoroma" target="_blank">DOM Bookorama 🔗</a>
+- DOM manipulation project  
+- Interactive UI behavior  
+- Event-driven programming  
+
+**Tech:** JS, CSS  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charan-435&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -63,27 +106,40 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🎯 Current Focus
 
-<p align="left">
+- 🔬 Deepening **Machine Learning fundamentals**
+- ⚙️ Building **end-to-end ML projects**
+- 🌐 Integrating ML with **web applications**
+- 📦 Learning **deployment (FastAPI / Flask / Docker)**
+
+---
+
+## 🌐 Connect With Me
+
+<p>
   <a href="https://www.linkedin.com/in/charan435" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/charan-435" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="mailto:charanm435@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+---
+
+## 🧠 Quote I Believe In
+
+> *"Every expert was once a beginner. Keep building, keep learning."* 🚀
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*"Every expert was once a beginner. Keep building, keep learning."* 🚀
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=charan-435&color=blueviolet&style=flat-square&label=Profile+Views)
 
