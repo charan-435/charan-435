@@ -47,7 +47,7 @@
 ### 🧠 [MOAOA Brain Tumour Classification](https://github.com/charan-435/MOAOA-Brain-Tumour-Classification)
 > Research-grade ML — **Metaheuristic Optimization + CNN**
 
-- Multi-Objective Aquila Optimizer Algorithm
+- Multi-Objective Archimedes Optimizer Algorithm
 - MRI image feature selection & classification
 - Jupyter notebooks with full EDA pipeline
 - ⭐ 2 stars · 🍴 3 forks
