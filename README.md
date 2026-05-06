@@ -10,9 +10,12 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=charan-435&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="400"/>
 
 ## 🧑‍💻 About Me
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=charan-435&show_icons=true&theme=tokyonight" width="400" />
+</p>
 
 - 🎓 **BTech @ IIT Guwahati**
 - 🤖 Building **real-world ML & AI systems**
@@ -152,9 +155,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan-435&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=charan-435&show_icons=true&theme=tokyonight" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan-435&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan-435&layout=compact&theme=tokyonight&langs_count=8" height="170"/>
 </div>
 
 <div align="center">
