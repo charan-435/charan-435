@@ -13,10 +13,6 @@
 
 ## 🧑‍💻 About Me
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan-435&show_icons=true&theme=tokyonight" width="400" />
-</p>
-
 - 🎓 **BTech @ IIT Guwahati**
 - 🤖 Building **real-world ML & AI systems**
 - 🔬 Researcher — applying **metaheuristic optimization** to medical imaging
@@ -165,7 +161,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan-435&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan-435&theme=github&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -174,9 +170,6 @@
 
 ```text
 🏗️  GradeOps         ████████████████░░░░  80%  AI exam grading platform
-🔬  ML Research       ████████████░░░░░░░░  60%  Metaheuristic optimization
-🌐  Full-Stack Apps   ██████████░░░░░░░░░░  50%  FastAPI + React + Supabase
-🐳  MLOps / Docker    ████████░░░░░░░░░░░░  40%  Containerization & deployment
 ```
 
 ---
