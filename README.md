@@ -281,18 +281,7 @@ Real-time terminal shooter in pure C++ with adaptive difficulty: enemy speed and
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan-435&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="700"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=charan-435&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" width="95%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charan-435&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=ddd6fe" width="95%"/>
-
 </div>
-
-
-  
 
 <div align="center">
   <picture>
@@ -301,12 +290,14 @@ Real-time terminal shooter in pure C++ with adaptive difficulty: enemy speed and
   </picture>
 </div>
 
+<br/>
 
+<div align="center">
 
-  
-  [![Codeforces](https://img.shields.io/badge/Codeforces-handle-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/charan_435)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/charanm435)
+[![Codeforces](https://img.shields.io/badge/Codeforces-charan__435-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/charan_435)
+[![LeetCode](https://img.shields.io/badge/LeetCode-charanm435-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/charanm435)
 
+</div>
 
 <br/>
 
